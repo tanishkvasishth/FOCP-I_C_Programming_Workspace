@@ -16,7 +16,7 @@ int main(){
 
     printf("\nEnter Grade: ");
     scanf(" %c", &grade);
-
+    
     printf("\nStudent ID: %d ", student_id);
     printf("\nAge       : %d ", age);
     printf("\nPercentage: %f ", percentage);
